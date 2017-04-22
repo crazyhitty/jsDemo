@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>jsDemo</title>
+  <title>Your page title here :)</title>
   <meta name="description" content="">
   <meta name="author" content="">
 
@@ -33,23 +33,12 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div class="container">
     <div class="row">
-      <div class="one-half column" style="margin-top: 5%">
-        <label >Task</label>
-        <input class="u-full-width" placeholder="Enter task here" id="textInputTask" type="text">
-        <input class="button-primary" id="buttonInputAddTask" value="Add" type="submit">
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="one-half column" style="margin-top: 5%">
-        <ul id="listTasks"/>
+      <div class="one-half column" style="margin-top: 25%">
+        <h4>Hello World!</h4>
+        <p>This index.html page is a placeholder with the CSS, font and favicon. It's just waiting for you to add some content! If you need some help hit up the <a href="http://www.getskeleton.com">Skeleton documentation</a>.</p>
       </div>
     </div>
   </div>
-
-  <!-- Attach javascript
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <script src="js/demo.js"></script>
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
